@@ -101,7 +101,8 @@
     "yallist": "^4.0.0"
   },
   "scripts": {
-    "dev": "nodemon app.js"
+    "dev": "nodemon app.js",
+    "start": "node app.js"
   },
   "author": "oscar peña",
   "license": "ISC"
